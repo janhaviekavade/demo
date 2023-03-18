@@ -1,0 +1,32 @@
+.container{
+    border: 2px solid black;
+}
+.row{
+    border: 2px solid red;
+}
+.col{
+    border: 3px solid green;
+}
+/* body{
+    background-color: bisque;
+} */
+#header{
+    background-color: orange;
+
+}
+#menu{
+    background: pink;
+
+}
+#content{
+    background: aquamarine;
+}
+
+#sidebar{
+    background: brown;
+
+}
+#footer{
+    background: orchid;
+
+}
